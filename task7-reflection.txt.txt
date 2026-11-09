@@ -1,0 +1,9 @@
+* Week 1 – Reflection
+
+During Week 1 of the Web Development internship, I learned the fundamentals of HTML5 and how it is used to create the structure of web pages. I learned about basic HTML tags, headings, paragraphs, text formatting, links, images, lists, and tables. I also understood how to create forms using input fields, radio buttons, checkboxes, dropdown menus, and text areas.
+
+One of the most interesting parts was learning semantic HTML elements such as header, nav, main, section, article, and footer. These elements help organize webpage content clearly. I also enjoyed creating the Student Learning Portal mini project because it allowed me to combine the concepts I had learned in the previous tasks.
+
+Initially, understanding the correct structure and usage of different tags was a little challenging. However, practising each concept helped me become more confident.
+
+Overall, this week gave me a good foundation in web development. I understood that HTML is the building block of websites, and I look forward to learning CSS and JavaScript in the upcoming weeks.
